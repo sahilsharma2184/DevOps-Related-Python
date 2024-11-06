@@ -6,7 +6,7 @@ print(x,y,z) #o/p: 5 3 6.0
 #############################
 
 #get the type of variable using type() function
-a="Sahil"
+a="Sahil" #is same as 'Sahil' i.e. double quotes are same as single quotes, both are strings
 b=9.8
 print(type(a))
 print(type(b))
